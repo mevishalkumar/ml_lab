@@ -1,5 +1,4 @@
 # write the file
-$ pip freeze > requirements.txt
 # show the file's contents
 $ cat requirements.txt
 matplotlib==1.4.3
